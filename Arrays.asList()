@@ -1,0 +1,4 @@
+List listOfCurrencies = new ArrayList();
+listOfCurrencies.add("USD/AUD");
+listOfCurrencies.add("USD/JPY");
+listOfCurrencies.add("USD/INR");
